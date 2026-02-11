@@ -1,152 +1,32 @@
 [
-  {
-    "nome": "Pablo Sponchiado",
-    "idade": 18,
-    "curso": "Ciência da Computação"
-  },
-  {
-    "nome": "Maria Silva",
-    "idade": 20,
-    "curso": "Engenharia de Software"
-  },
-  {
-    "nome": "João Pereira",
-    "idade": 19,
-    "curso": "Sistemas de Informação"
-  },
-  {
-    "nome": "Ana Costa",
-    "idade": 21,
-    "curso": "Ciência da Computação"
-  },
-  {
-    "nome": "Carlos Santos",
-    "idade": 19,
-    "curso": "Redes de Computadores"
-  },
-  {
-    "nome": "Fernanda Lima",
-    "idade": 20,
-    "curso": "Desenvolvimento Web"
-  },
-  {
-    "nome": "Bruno Oliveira",
-    "idade": 22,
-    "curso": "Inteligência Artificial"
-  },
-  {
-    "nome": "Juliana Rocha",
-    "idade": 19,
-    "curso": "Ciência da Computação"
-  },
-  {
-    "nome": "Rafael Martins",
-    "idade": 21,
-    "curso": "Engenharia de Software"
-  },
-  {
-    "nome": "Camila Souza",
-    "idade": 20,
-    "curso": "Sistemas de Informação"
-  },
-  {
-    "nome": "Ana Souza",
-    "idade": 19,
-    "curso": "Engenharia Civil"
-  },
-  {
-    "nome": "Bruno Lima",
-    "idade": 22,
-    "curso": "Direito"
-  },
-  {
-    "nome": "Carla Mendes",
-    "idade": 20,
-    "curso": "Psicologia"
-  },
-  {
-    "nome": "Diego Ferreira",
-    "idade": 23,
-    "curso": "Administração"
-  },
-  {
-    "nome": "Eduarda Santos",
-    "idade": 21,
-    "curso": "Arquitetura e Urbanismo"
-  },
-  {
-    "nome": "Felipe Rocha",
-    "idade": 24,
-    "curso": "Ciência da Computação"
-  },
-  {
-    "nome": "Gabriela Alves",
-    "idade": 18,
-    "curso": "Enfermagem"
-  },
-  {
-    "nome": "Henrique Martins",
-    "idade": 25,
-    "curso": "Engenharia Mecânica"
-  },
-  {
-    "nome": "Isabela Costa",
-    "idade": 19,
-    "curso": "Biomedicina"
-  },
-  {
-    "nome": "João Pedro Ribeiro",
-    "idade": 22,
-    "curso": "Sistemas de Informação"
-  },
-  {
-    "nome": "Larissa Oliveira",
-    "idade": 20,
-    "curso": "Nutrição"
-  },
-  {
-    "nome": "Matheus Carvalho",
-    "idade": 23,
-    "curso": "Educação Física"
-  },
-  {
-    "nome": "Natália Gomes",
-    "idade": 21,
-    "curso": "Farmácia"
-  },
-  {
-    "nome": "Otávio Barbosa",
-    "idade": 26,
-    "curso": "Engenharia Elétrica"
-  },
-  {
-    "nome": "Patrícia Nunes",
-    "idade": 22,
-    "curso": "Jornalismo"
-  },
-  {
-    "nome": "Rafael Teixeira",
-    "idade": 24,
-    "curso": "Economia"
-  },
-  {
-    "nome": "Sabrina Duarte",
-    "idade": 19,
-    "curso": "Design Gráfico"
-  },
-  {
-    "nome": "Thiago Lopes",
-    "idade": 27,
-    "curso": "Medicina"
-  },
-  {
-    "nome": "Vanessa Azevedo",
-    "idade": 20,
-    "curso": "Publicidade e Propaganda"
-  },
-  {
-    "nome": "William Fernandes",
-    "idade": 23,
-    "curso": "Engenharia de Produção"
-  }
+  { "nome": "Ana Souza", "idade": 20, "curso": "Engenharia" },
+  { "nome": "Bruno Lima", "idade": 22, "curso": "Sistemas de Informação" },
+  { "nome": "Carla Mendes", "idade": 19, "curso": "Design" },
+  { "nome": "Daniel Rocha", "idade": 25, "curso": "Ciência da Computação" },
+  { "nome": "Eduarda Alves", "idade": 21, "curso": "Arquitetura" },
+  { "nome": "Felipe Nogueira", "idade": 23, "curso": "Engenharia de Software" },
+  { "nome": "Gabriela Pires", "idade": 18, "curso": "Publicidade" },
+  { "nome": "Henrique Batista", "idade": 24, "curso": "Análise e Desenvolvimento de Sistemas" },
+  { "nome": "Isabela Costa", "idade": 20, "curso": "Administração" },
+  { "nome": "João Ribeiro", "idade": 26, "curso": "Sistemas de Informação" },
+  { "nome": "Karen Freitas", "idade": 22, "curso": "Engenharia Civil" },
+  { "nome": "Lucas Martins", "idade": 19, "curso": "Ciência da Computação" },
+  { "nome": "Mariana Lopes", "idade": 21, "curso": "Design Gráfico" },
+  { "nome": "Nathan Azevedo", "idade": 23, "curso": "Engenharia Elétrica" },
+  { "nome": "Olivia Farias", "idade": 20, "curso": "Psicologia" },
+  { "nome": "Paulo Henrique", "idade": 27, "curso": "Análise de Sistemas" },
+  { "nome": "Quezia Moraes", "idade": 18, "curso": "Marketing" },
+  { "nome": "Rafael Teixeira", "idade": 24, "curso": "Engenharia Mecânica" },
+  { "nome": "Sabrina Duarte", "idade": 22, "curso": "Ciência da Computação" },
+  { "nome": "Thiago Barros", "idade": 25, "curso": "Engenharia de Produção" },
+  { "nome": "Ursula Neves", "idade": 21, "curso": "Relações Internacionais" },
+  { "nome": "Victor Carvalho", "idade": 23, "curso": "Sistemas de Informação" },
+  { "nome": "Wesley Pacheco", "idade": 19, "curso": "Análise e Desenvolvimento de Sistemas" },
+  { "nome": "Xavier Moreira", "idade": 28, "curso": "Ciência da Computação" },
+  { "nome": "Yasmin Torres", "idade": 20, "curso": "Engenharia Ambiental" },
+  { "nome": "Zeca Oliveira", "idade": 26, "curso": "Administração" },
+  { "nome": "Amanda Rangel", "idade": 22, "curso": "Gestão de TI" },
+  { "nome": "Caio Fernandes", "idade": 21, "curso": "Engenharia de Software" },
+  { "nome": "Larissa Guedes", "idade": 19, "curso": "Design" },
+  { "nome": "Mateus Peixoto", "idade": 24, "curso": "Ciência da Computação" }
 ]
