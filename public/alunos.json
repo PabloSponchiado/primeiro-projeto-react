@@ -1,0 +1,152 @@
+[
+  {
+    "nome": "Pablo Sponchiado",
+    "idade": 18,
+    "curso": "Ciência da Computação"
+  },
+  {
+    "nome": "Maria Silva",
+    "idade": 20,
+    "curso": "Engenharia de Software"
+  },
+  {
+    "nome": "João Pereira",
+    "idade": 19,
+    "curso": "Sistemas de Informação"
+  },
+  {
+    "nome": "Ana Costa",
+    "idade": 21,
+    "curso": "Ciência da Computação"
+  },
+  {
+    "nome": "Carlos Santos",
+    "idade": 19,
+    "curso": "Redes de Computadores"
+  },
+  {
+    "nome": "Fernanda Lima",
+    "idade": 20,
+    "curso": "Desenvolvimento Web"
+  },
+  {
+    "nome": "Bruno Oliveira",
+    "idade": 22,
+    "curso": "Inteligência Artificial"
+  },
+  {
+    "nome": "Juliana Rocha",
+    "idade": 19,
+    "curso": "Ciência da Computação"
+  },
+  {
+    "nome": "Rafael Martins",
+    "idade": 21,
+    "curso": "Engenharia de Software"
+  },
+  {
+    "nome": "Camila Souza",
+    "idade": 20,
+    "curso": "Sistemas de Informação"
+  },
+  {
+    "nome": "Ana Souza",
+    "idade": 19,
+    "curso": "Engenharia Civil"
+  },
+  {
+    "nome": "Bruno Lima",
+    "idade": 22,
+    "curso": "Direito"
+  },
+  {
+    "nome": "Carla Mendes",
+    "idade": 20,
+    "curso": "Psicologia"
+  },
+  {
+    "nome": "Diego Ferreira",
+    "idade": 23,
+    "curso": "Administração"
+  },
+  {
+    "nome": "Eduarda Santos",
+    "idade": 21,
+    "curso": "Arquitetura e Urbanismo"
+  },
+  {
+    "nome": "Felipe Rocha",
+    "idade": 24,
+    "curso": "Ciência da Computação"
+  },
+  {
+    "nome": "Gabriela Alves",
+    "idade": 18,
+    "curso": "Enfermagem"
+  },
+  {
+    "nome": "Henrique Martins",
+    "idade": 25,
+    "curso": "Engenharia Mecânica"
+  },
+  {
+    "nome": "Isabela Costa",
+    "idade": 19,
+    "curso": "Biomedicina"
+  },
+  {
+    "nome": "João Pedro Ribeiro",
+    "idade": 22,
+    "curso": "Sistemas de Informação"
+  },
+  {
+    "nome": "Larissa Oliveira",
+    "idade": 20,
+    "curso": "Nutrição"
+  },
+  {
+    "nome": "Matheus Carvalho",
+    "idade": 23,
+    "curso": "Educação Física"
+  },
+  {
+    "nome": "Natália Gomes",
+    "idade": 21,
+    "curso": "Farmácia"
+  },
+  {
+    "nome": "Otávio Barbosa",
+    "idade": 26,
+    "curso": "Engenharia Elétrica"
+  },
+  {
+    "nome": "Patrícia Nunes",
+    "idade": 22,
+    "curso": "Jornalismo"
+  },
+  {
+    "nome": "Rafael Teixeira",
+    "idade": 24,
+    "curso": "Economia"
+  },
+  {
+    "nome": "Sabrina Duarte",
+    "idade": 19,
+    "curso": "Design Gráfico"
+  },
+  {
+    "nome": "Thiago Lopes",
+    "idade": 27,
+    "curso": "Medicina"
+  },
+  {
+    "nome": "Vanessa Azevedo",
+    "idade": 20,
+    "curso": "Publicidade e Propaganda"
+  },
+  {
+    "nome": "William Fernandes",
+    "idade": 23,
+    "curso": "Engenharia de Produção"
+  }
+]
